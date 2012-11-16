@@ -112,8 +112,8 @@ def main():
             continue
         else:
             snpcol=zeile.split("\t")
-            line='\t'.join(snpcol[0:5])+'\t'+snpcol[5].replace('.',',')
-            line=line.rstrip('\n')+'\t'+'\t'.join(parseinfo(snpcol[7]))+'\t'+snpcol[7]+'\n'
+            line='\t'.join(snpcol[0:5])+'\t'+snpcol[5].replace('.',',') #check
+            line=line.rstrip('\n')+'\t'+'\t'.join(parseinfo(snpcol[7]))+'\t'+snpcol[7]+'\n' #check
             '''print(line)'''
             newsnp.write(line)    
     newsnp.close
