@@ -1,0 +1,71 @@
+Data of the xenograft, different mapping:
+
+
+Simple aln, results
+
+
+HUMAN:
+
+10470146 unmapped
+77014356 mapped
+87484502 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 duplicates
+77014356 + 0 mapped (88.03%:-nan%)
+87484502 + 0 paired in sequencing
+43742251 + 0 read1
+43742251 + 0 read2
+76239918 + 0 properly paired (87.15%:-nan%)
+76660759 + 0 with itself and mate mapped
+353597 + 0 singletons (0.40%:-nan%)
+339906 + 0 with mate mapped to a different chr
+310933 + 0 with mate mapped to a different chr (mapQ>=5)
+
+
+MOUSE:
+
+74846025 unmapped
+12638477 mapped
+87484502 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 duplicates
+12638477 + 0 mapped (14.45%:-nan%)
+87484502 + 0 paired in sequencing
+43742251 + 0 read1
+43742251 + 0 read2
+12270858 + 0 properly paired (14.03%:-nan%)
+12327402 + 0 with itself and mate mapped
+311075 + 0 singletons (0.36%:-nan%)
+40962 + 0 with mate mapped to a different chr
+32074 + 0 with mate mapped to a different chr (mapQ>=5)
+
+
+.f file:
+
+16700202 Total
+70784300 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 duplicates
+70784294 + 0 mapped (100.00%:-nan%)
+70784300 + 0 paired in sequencing
+35411029 + 0 read1
+35373271 + 0 read2
+70232166 + 0 properly paired (99.22%:-nan%)
+70605701 + 0 with itself and mate mapped
+178593 + 0 singletons (0.25%:-nan%)
+307417 + 0 with mate mapped to a different chr
+307285 + 0 with mate mapped to a different chr (mapQ>=5)
+
+.F file
+
+16700202 total
+
+16700202 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 duplicates
+6230062 + 0 mapped (37.31%:-nan%)
+16700202 + 0 paired in sequencing
+8331222 + 0 read1
+8368980 + 0 read2
+6007752 + 0 properly paired (35.97%:-nan%)
+6055058 + 0 with itself and mate mapped
+175004 + 0 singletons (1.05%:-nan%)
+32489 + 0 with mate mapped to a different chr
+3648 + 0 with mate mapped to a different chr (mapQ>=5)
+
